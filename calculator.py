@@ -8,3 +8,5 @@ print(add)
 #subtraction
 sub = a-b
 print(sub)
+
+#multiplication

@@ -10,3 +10,5 @@ sub = a-b
 print(sub)
 
 #multiplication
+#persentage
+#percentage-2

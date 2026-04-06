@@ -10,3 +10,4 @@ sub = a-b
 print(sub)
 
 #multiplication
+#persentage

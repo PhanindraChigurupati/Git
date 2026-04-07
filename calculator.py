@@ -22,6 +22,9 @@ print(sub)
 #100
 #200
 #300
+#1000
+#2000
+#3000
 #phani
 #harsha
 #vamsi
